@@ -22,7 +22,7 @@ def get_detection_folder():
 
 if __name__ == '__main__':
 
-    st.title('TH-DDC-AI-Teania Detector')
+    st.title('ปัญญาประดิษฐ์พยาธิตัวตืด')
     st.subheader('develop by https://kasira.biz')
 
     parser = argparse.ArgumentParser()
